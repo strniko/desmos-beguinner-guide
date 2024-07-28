@@ -1,1 +1,1 @@
-# desmos-beguinner-guide
+# Desmos Beguinner Guide
